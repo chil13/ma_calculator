@@ -5,6 +5,8 @@ from openpyxl import load_workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 #import plotly.graph_objects as go
 
+
+
 #st.title('MA Calculator')
 
 def ma():
